@@ -1,0 +1,23 @@
+.info {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 5px;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+    background-color: #588157;
+    padding: 5px;
+    margin: 5px 0 5px;
+}
+
+.text{
+    font-weight: 200;
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 75%;
+  }
+}

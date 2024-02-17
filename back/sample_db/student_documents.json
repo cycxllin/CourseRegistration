@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Ember Mason",
+        "email": "masone@fakeuni.ca",
+        "coursesEnrolled": []
+    },
+    {
+        "id": 2,
+        "name": "Mack Winters",
+        "email": "wintersm@fakeuni.ca",
+        "coursesEnrolled": []
+    },
+    {
+        "id": 3,
+        "name": "Xialian Lin",
+        "email": "linx@fakeuni.ca",
+        "coursesEnrolled": []
+    },
+    {
+        "id": 4,
+        "name": "Yahir Guzman",
+        "email": "guzmany@fakeuni.ca",
+        "coursesEnrolled": []
+    },
+    {
+        "id": 5,
+        "name": "Elaina Deleon",
+        "email": "deleone@fakeuni.ca",
+        "coursesEnrolled": []
+    },
+    {
+        "id": 6,
+        "name": "Truett Casey",
+        "email": "caseyt@fakeuni.ca",
+        "coursesEnrolled": []
+    },
+    {
+        "id": 7,
+        "name": "Kylian Whitney",
+        "email": "whitneyk@fakeuni.ca",
+        "coursesEnrolled": []
+    },
+    {
+        "id": 8,
+        "name": "Caleb Santiago",
+        "email": "santiagoc@fakeuni.ca",
+        "coursesEnrolled": []
+    },
+    {
+        "id": 9,
+        "name": "Alayah Chase",
+        "email": "chasea@fakeuni.ca",
+        "coursesEnrolled": []
+    },
+    {
+        "id": 10,
+        "name": "Samira Lynn",
+        "email": "lynns@fakeuni.ca",
+        "coursesEnrolled": []
+    },
+    {
+        "id": 11,
+        "name": "Leslie Yu",
+        "email": "yul@fakeuni.ca",
+        "coursesEnrolled": []
+    }
+]

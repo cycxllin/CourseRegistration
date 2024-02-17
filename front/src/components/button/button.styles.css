@@ -1,0 +1,10 @@
+.btn {
+    font-weight: bold;
+}
+
+@media (max-width: 480px) {
+    .btn {
+      font-size: 90%;
+      font-weight: bold;
+    }
+  }

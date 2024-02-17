@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "CourseName": "BIOL 101",
+        "Department": "Biological Sciences",
+        "TimeOfDay": "09:00",
+        "EnrolledStudents": 0
+      },
+      {
+        "id": 2,
+        "CourseName": "ZOOL 300",
+        "Department": "Biological Sciences",
+        "TimeOfDay": "10:00",
+        "EnrolledStudents": 0
+      },
+      {
+        "id": 3,
+        "CourseName": "CHEM 207",
+        "Department": "Chemistry",
+        "TimeOfDay": "11:00",
+        "EnrolledStudents": 0
+      },
+      {
+        "id": 4,
+        "CourseName": "ANTH 465",
+        "Department": "Anthropology",
+        "TimeOfDay": "12:00",
+        "EnrolledStudents": 0
+      },
+      {
+        "id": 5,
+        "CourseName": "HIST 201",
+        "Department": "History, Classics, & Religion",
+        "TimeOfDay": "13:00",
+        "EnrolledStudents": 0
+      },
+      {
+        "id": 6,
+        "CourseName": "PSYC 220",
+        "Department": "Psychology",
+        "TimeOfDay": "14:00",
+        "EnrolledStudents": 0
+      },
+      {
+        "id": 7,
+        "CourseName": "CHIN 201",
+        "Department": "Modern Languages",
+        "TimeOfDay": "15:00",
+        "EnrolledStudents": 0
+      },
+      {
+        "id": 8,
+        "CourseName": "CMPT 101",
+        "Department": "Computing Science",
+        "TimeOfDay": "09:00",
+        "EnrolledStudents": 0
+      },
+      {
+        "id": 9,
+        "CourseName": "CMPT 320",
+        "Department": "Computing Science",
+        "TimeOfDay": "10:00",
+        "EnrolledStudents": 0
+      },
+      {
+        "id": 10,
+        "CourseName": "FREN 320",
+        "Department": "Modern Languages",
+        "TimeOfDay": "11:00",
+        "EnrolledStudents": 0
+      },
+      {
+        "id": 11,
+        "CourseName": "BIOL 256",
+        "Department": "Biological Sciences",
+        "TimeOfDay": "12:00",
+        "EnrolledStudents": 0
+      },
+      {
+        "id": 12,
+        "CourseName": "ZOOL 310",
+        "Department": "Biological Sciences",
+        "TimeOfDay": "13:00",
+        "EnrolledStudents": 0
+      },
+      {
+        "id": 13,
+        "CourseName": "ANTH 216",
+        "Department": "Anthropology",
+        "TimeOfDay": "14:00",
+        "EnrolledStudents": 0
+      },
+      {
+        "id": 14,
+        "CourseName": "PSYC 410",
+        "Department": "Psychology",
+        "TimeOfDay": "15:00",
+        "EnrolledStudents": 0
+      }
+]
