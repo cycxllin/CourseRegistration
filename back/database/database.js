@@ -5,7 +5,7 @@ mongoose.set('strictQuery', true);
 export const connectDB = async () => {
     try {
         mongoose.connect(process.env.DATABASE_URL || 
-            'mongodb+srv://admin:admin@coursereg.kgrayig.mongodb.net/CourseRegApp?retryWrites=true&w=majority'
+            'mongodb://127.0.0.1/coursereg'
         );
         console.log('Database connected')
     } catch (error) {
